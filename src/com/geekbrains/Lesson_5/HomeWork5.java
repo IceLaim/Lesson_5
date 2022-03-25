@@ -28,7 +28,5 @@ public class HomeWork5 {
                 "7977312571" + i,
                 40000 + i * 4000,
                 ageRand.nextInt(28) + 28);
-
-
     }
 }
